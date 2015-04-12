@@ -33,3 +33,9 @@ Please feel free to use a different markup language if you do not plan to run
 This is the pinteresting sample application for [*One Month Rails](http://onemonthrails.com)
 
 by Laarni Shank
+
+# Additional Information
+
+at the end of this course i should have enough knwoledge and confidence to atleast continue to study more and move on to actually doing work with the projects.
+
+by Laarni Shank
